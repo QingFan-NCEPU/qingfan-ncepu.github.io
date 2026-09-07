@@ -22,9 +22,9 @@ repository               : "QingFan-NCEPU/qingfan-ncepu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yjlin_jeju.jpeg"
+  avatar           : "qingfan-avatar.jpg"
   name             : "Qing Fan"
-  pronouns         : "she/her"  
+  pronouns         : 
   bio              : "Associate Professor, School of Control and Computer Engineering, North China Electric Power University (NCEPU) <br> Email: qingfan@ncepu.edu.cn"
   location         : "Beijing, China"
   employer         : "North China Electric Power University"
