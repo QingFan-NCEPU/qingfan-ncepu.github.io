@@ -44,7 +44,7 @@ Service
 
 Teaching
 ======
-In accordance with university policy, postdoctoral researchers are not permitted to teach courses.
+Introduction to Information Security, Introduction to Cyberspace Security
 
 Collaboration
 ======
